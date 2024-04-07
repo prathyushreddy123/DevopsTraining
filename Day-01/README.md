@@ -1,4 +1,6 @@
-# First Steps - What is DevOps?
+# Intro to Devops
+
+## First Steps - What is DevOps?
 DevOps brings together a combination of software development and operations. DevOps is a set of practices that help to reach the goal of this movement: reducing the time between the ideation phase of a product and its release in production to the end-user or whomever it could be an internal team or customer.
 Another important thing to know is that as a DevOps engineer, your job is to make sure that the different teams - the ones who make the software (developers), the ones who run it (operations), and the ones who test it (QA) - work together smoothly without keeping things separate.
 
