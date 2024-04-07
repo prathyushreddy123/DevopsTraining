@@ -2,6 +2,8 @@
 
 ## [Devops LifeCycle Explained](./README_Devopslifecycle.md)
 
+## [Devops vs Agile](./README_DevopsAgile.md)
+
 
 ## KeyPoints:
 Developers creating new features and functionality (as well as bug fixes) for the application.
