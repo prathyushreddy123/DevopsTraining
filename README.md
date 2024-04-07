@@ -1,2 +1,2 @@
 # DevopsTraining
-Devops Training Material
+This repository is to document the roadmap, tools and technologies that are part of Devops. This will not cover all things "DevOps" but it will cover some of the areas that will benefit your learning and understanding overall in this space.
