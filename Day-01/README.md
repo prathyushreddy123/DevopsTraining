@@ -4,3 +4,4 @@
 
 ## [Devops vs Agile](./README_DevopsAgile.md)
 
+## [Continuous Cycle of Devops](./README_DetailedCycle.md)
