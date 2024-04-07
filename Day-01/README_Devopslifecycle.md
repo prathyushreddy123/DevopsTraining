@@ -42,4 +42,5 @@ This section is also where we are going to capture that feedback wheel about the
 
 **Reliability** is a key factor here as well, at the end of the day we want our Application to be available all the time it is required. This then leads to other observability, security and data management areas that should be continuously monitored and feedback can always be used to better enhance, update and release the application continuously.
 
+You can find more about this in [Continuous Cycle of Devops](./README_DetailedCycle.md)
 
