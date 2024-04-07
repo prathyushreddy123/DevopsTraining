@@ -28,7 +28,7 @@ It is also likely that we need to communicate with other services in our network
 ## Jack of all trades, Master of none
 You don't need to be a Network or Infrastructure specialist you need a foundational knowledge of how to get things up and running and talking to each other, much the same as maybe having a foundational knowledge of a programming language but you don't need to be a developer.
 
-## [Devops LifeCycle Explained]{./README_Devopslifecycle.md}
+## [Devops LifeCycle Explained](./README_Devopslifecycle.md)
 
 
 ## KeyPoints:
