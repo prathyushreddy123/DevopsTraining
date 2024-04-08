@@ -17,4 +17,9 @@ Login into **aws.amazon.com** and follow the steps to register with an email ID.
 Login into **github.com** and create the account with email ID.
 Go to the WSL linux terminal and create the ssh key pair with command `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
 
+The above command will generate a public and private key pair. By default, these files are saved in ~/.ssh directory with the names id_rsa (private key) and id_rsa.pub (public key).
+
+Copy the key and Log in to your GitHub account and navigate to Settings > SSH and GPG keys. Click on "New SSH key" and paste the copied public key into the "Key" field. 
+
+Test the connection from WSL Linux to github 
 
