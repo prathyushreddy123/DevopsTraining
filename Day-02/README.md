@@ -13,4 +13,8 @@ Follow [guide](https://visualstudio.microsoft.com/downloads/) to install the sam
 ## AWS Account creation.
 Login into **aws.amazon.com** and follow the steps to register with an email ID.
 
+## Github Account and ssh key creation for seamless login
+Login into **github.com** and create the account with email ID.
+Go to the WSL linux terminal and create the ssh key pair with command `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
+
 
