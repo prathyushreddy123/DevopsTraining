@@ -11,4 +11,6 @@ Follow the below steps to install and setup WSL on Windows 10 and above.
 Follow [guide](https://visualstudio.microsoft.com/downloads/) to install the same.
 
 ## AWS Account creation.
+Login into **aws.amazon.com** and follow the steps to register with an email ID.
+
 
