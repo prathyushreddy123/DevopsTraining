@@ -1,6 +1,6 @@
 ## Plan > Code > Build > Testing > Release > Deploy > Operate > Monitor >
 
-![Alt text](./images/Day1_DevOpsCycle.png)
+![Alt text](../images/Day1_DevOpsCycle.png)
 
 # Plan
 It all starts with the planning process this is where the development team gets together and figures out what types of features and bug fixes they're going to roll out in their next sprint. This is an opportunity as a DevOps Engineer for you to get involved with that and learn what kinds of things are going to be coming your way that you need to be involved with and also influence their decisions or their path and kind of help them work with the infrastructure that you've built or steer them towards something that's going to work better for them in case they're not on that path and so one key thing to point out here is the developers or software engineering team is your customer as a DevOps engineer so this is your opportunity to work with your customer before they go down a bad path.
