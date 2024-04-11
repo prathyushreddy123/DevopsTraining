@@ -5,7 +5,7 @@
  # Networking The Basics
  **Host** are any devices which send or receive traffic.
 
- ![](../Images/Day03_Networking1.png)
+ ![](../images/Day03_Networking1.png)
 
 **IP Address** the identity of each host.
 
