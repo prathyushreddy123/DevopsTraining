@@ -1,0 +1,3 @@
+1. For Windows Users, install WSL from the details provided in Day-02. For MAC users, get used with the linux terminal.
+2. Install VS Studio Code on Windows and make the settings to connect from WSL by following the doc (code.visualstudio.com/docs/remote/wsl). For MAC users, you can open visual studio directly (No need to worry).
+3. Create an Amazon account with your email ID.
